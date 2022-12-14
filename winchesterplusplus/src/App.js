@@ -2,6 +2,8 @@ import logo from "./logo.svg";
 
 import "./App.css";
 
+import React from "react";
+
 import Home from "./Pages/home";
 import Alisa from "./Pages/alisa";
 import Byron from "./Pages/byron";

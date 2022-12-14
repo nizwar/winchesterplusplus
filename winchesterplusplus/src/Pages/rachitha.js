@@ -1,13 +1,10 @@
 import React from "react";
+import Rachita from "../Components/RachithaComponents/rachithacomponent.jsx";
 {/* <head>
 <title> Rachitha's Page🧘‍♀️</title>
 </head> */}
 const Rachitha = () => {
-    return(
-        <div>
-            <h1>Rachitha's page</h1>
-        </div>
-    )
+    return(<Rachita/>)
 }
 
 export default Rachitha;
